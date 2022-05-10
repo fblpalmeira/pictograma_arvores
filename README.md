@@ -1,4 +1,4 @@
-# pictograma_arvores
+# Pictograma
 
 Um pictograma comparando o tamanho do angelim-vermelho (Dinizia excelsa) com as 3 árvores mais altas do mundo (árvores acima de 100 metros). Fonte: [Wikipedia](https://en.wikipedia.org/wiki/List_of_tallest_trees).
 
