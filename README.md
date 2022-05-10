@@ -6,4 +6,4 @@ Um pictograma comparando o tamanho do angelim-vermelho (Dinizia excelsa) com as 
 
 - [Database `.html`](https://en.wikipedia.org/wiki/List_of_tallest_trees)
 
-<img src="">
+<img src="https://github.com/fblpalmeira/pictograma_arvores/blob/main/data/pictograma_arvores.png">
