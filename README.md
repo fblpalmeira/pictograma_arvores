@@ -2,8 +2,8 @@
 
 Um pictograma comparando o tamanho do angelim-vermelho com as 3 árvores mais altas do mundo (acima de 100 metros). Fonte: [Wikipedia](https://en.wikipedia.org/wiki/List_of_tallest_trees).
 
-- [Script `.R`]()
+- [Script `.R`](https://github.com/fblpalmeira/pictograma_arvores/blob/main/data/pictogram.R)
 
-- [Database `.html`]()
+- [Database `.html`](https://en.wikipedia.org/wiki/List_of_tallest_trees)
 
 <img src="">
