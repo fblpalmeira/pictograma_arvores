@@ -1,4 +1,4 @@
-# Pictograma
+# Pictogram
 
 🌲 A pictogram chart comparing the size of the red angelim (Dinizia excelsa) with the 3 tallest trees in the world.
 
