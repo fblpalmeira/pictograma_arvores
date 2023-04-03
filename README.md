@@ -1,6 +1,6 @@
 # Pictogram
 
-🌲 A pictogram chart comparing the size of the red angelim (Dinizia excelsa) with the 3 tallest trees in the world.
+🌲 A pictogram chart comparing the size of the red angelim (Dinizia excelsa), a South American canopy-emergent tree species, with the three tallest trees in the world.
 
 ℹ️  [Wikipedia](https://en.wikipedia.org/wiki/List_of_tallest_trees).
 
