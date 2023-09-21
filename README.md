@@ -22,8 +22,11 @@ Primeiro, instale o pacote utilizando o comando `install.packages("echarts4r")` 
 
 ``` r
 
-library(tidyverse)
+install.packages("echarts4r")
+install.packages("tidyverse")
+
 library(echarts4r)
+library(tidyverse)
 
 ```
 
@@ -43,7 +46,7 @@ Cristo <- "https://iconape.com/wp-content/files/gi/297679/png/cristo-redentor-br
 
 # Segunda parte 
 
-Agora, vamos criar outro objeto chamado `data` para armazenar as informações das figuras que vamos utilizar. Neste caso, vamos criar um `data.frame` inserindo o nome popular das espécies de árvores ("Coast redwood", "Yellow meranti", "Mountain ash", "Red angelim", "Christ the Redeemer") e, em seguida, adicionar a altura de cada uma delas na mesma ordem dos nomes populares. Neste mesmo `data.frame`, vamos adicionar os nomes dos objetos que criamos para armazenar os links das figura (vide na primeira parte do código).
+Agora, vamos criar outro objeto chamado `data` para armazenar as informações das figuras que vamos utilizar. Neste caso, vamos criar um `data.frame` inserindo o nome popular das espécies de árvores e o nome completo do Cristo ("Coast redwood", "Yellow meranti", "Mountain ash", "Red angelim", "Christ the Redeemer") e, em seguida, adicionar a altura de cada uma delas na mesma ordem dos nomes populares. Neste mesmo `data.frame`, vamos adicionar os nomes dos objetos que criamos para armazenar os links das figura (vide na primeira parte do código).
 
 ``` r
 
@@ -61,7 +64,10 @@ data <- data.frame(
 
 # Terceira parte 
 
-Para finalizar, vamos chamar o objeto `data` criado na seção anterior
+Para finalizar, vamos chamar o objeto `data` criado na seção anterior. Em seguida, utilizaremos o comando `e_charts` e chamaremos o objeto `(x)` (criado na seção anterior para armzenar os nomes das figuras) para inicializar o gráfico. Agora, vamos utilizar o comando `e_pictorial` chamando os objetos `value` e `symbol` para criar o gráfico com as figuras personalizadas. Utilizando o comando `e_theme` para aplicar um tema pré-definido `("westeros")`. Vale lembrar, que existe mais 43 outros temas pré-definidos para escolhermos. Como vamos ocultar a legenda, utilizaremos o argumento `(FALSE)` dentro da função `e_legend`.
+
+Agora vamos colocar um título e um subtítulo dentro do gráfico utilizando a função `e_title`. Com a mesma função, ainda podemos adicionar um sublink. Para visualizar as etiquetas das figuras no eixo x, vamos utilizar o argumento `(show=TRUE)` dentro da função  `e_labels`. Como vamos ocultar as linhas dos eixos `x` e `y`, utilizaremos o argumento `(show = FALSE)` dentro da funções `e_x_axis` e `e_y_axis`.
+
 
 ``` r
 
