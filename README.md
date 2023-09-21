@@ -40,7 +40,7 @@ Cristo <- "https://iconape.com/wp-content/files/gi/297679/png/cristo-redentor-br
 
 # Segunda parte 
 
-Agora, vamos criar outro objeto chamado `data` para armazenar as informações das figuras que vamos utilizar. Neste caso, vamos criar um `data.frame` inserindo o nome popular das espécies de árvores e o nome completo do Cristo ("Coast redwood", "Yellow meranti", "Mountain ash", "Red angelim", "Christ the Redeemer") e, em seguida, adicionar a altura de cada uma delas na mesma ordem dos nomes populares. Neste mesmo `data.frame`, vamos adicionar os nomes dos objetos que criamos para armazenar os links das figuras (vide na primeira parte do código).
+Agora, vamos criar um outro objeto chamado `data` para armazenar as informações das figuras que vamos utilizar. Neste caso, vamos criar um `data.frame` inserindo o nome popular das espécies de árvores e o nome completo do Cristo ("Coast redwood", "Yellow meranti", "Mountain ash", "Red angelim", "Christ the Redeemer") e, em seguida, adicionar a altura de cada uma delas na mesma ordem dos nomes populares. Neste mesmo `data.frame`, vamos adicionar os nomes dos objetos que criamos para armazenar os links das figuras (vide na primeira parte do código).
 
 ``` r
 
