@@ -8,8 +8,9 @@
 
 - [Database `.html`](https://en.wikipedia.org/wiki/List_of_tallest_trees)
 
-``` r
 <img src="https://github.com/fblpalmeira/pictograma_arvores/blob/main/data/pictogram_v2.png">
+
+``` r
 
 library(tidyverse)
 library(echarts4r)
