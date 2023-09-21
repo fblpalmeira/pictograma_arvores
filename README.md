@@ -8,6 +8,7 @@
 
 - [Database `.html`](https://en.wikipedia.org/wiki/List_of_tallest_trees)
 
+``` r
 <img src="https://github.com/fblpalmeira/pictograma_arvores/blob/main/data/pictogram_v2.png">
 
 library(tidyverse)
@@ -42,3 +43,5 @@ data %>%
   e_labels(show=TRUE) %>%
   e_x_axis(splitLine=list(show = FALSE)) %>%
   e_y_axis(show=FALSE, min=0, max=200, interval=20, splitLine=list(show = FALSE))
+
+```
