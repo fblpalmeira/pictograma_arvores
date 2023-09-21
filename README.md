@@ -26,7 +26,7 @@ library(tidyverse)
 
 # Primeira parte
 
-Crie os objetos que irão compor o pictograma. Neste caso, temos 4 espécies de árvores (Sequoia, Shorea, Eucalyptus e Dinizia) e o Cristo Redentor que vai servir como uma escala comparativa para mostrar o tamanho das árvores. Dentro de cada objeto, vamos inserir o link de onde estão as figuras que iremos utilizar para fazer o pictograma. Temos duas opções, ou pegamos os links da internet ou carregamos a figura dentro do repositório no GitHub.  
+Crie os objetos que irão compor o pictograma. Neste caso, temos 4 espécies de árvores (Sequoia, Shorea, Eucalyptus e Dinizia) e o Cristo Redentor que vai servir como uma escala comparativa para mostrar o tamanho das árvores. Dentro de cada objeto, vamos inserir o link das figuras que iremos utilizar para fazer o pictograma. Temos duas opções, ou pegamos os links da internet ou carregamos a figura dentro do repositório no GitHub.  
 
 ``` r
 
