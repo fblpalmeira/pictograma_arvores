@@ -1,20 +1,14 @@
-# Pictogram
+# Aprenda a fazer um pictograma
 
-🌲 A pictogram chart comparing the size of the red angelim (Dinizia excelsa), a South American canopy-emergent tree species, with the three tallest trees in the world.
+Crie gráficos interativos utilizando o pacote ['echarts4r'](https://echarts4r.john-coene.com/) uma extensão da biblioteca 'Echarts Javascript', que inclui 36 tipos de gráficos, temas, 'Shiny' proxies e animações. O código é dividido em três partes principais e é super simples de ser reproduzido. 
+
+- [Código `.R`](https://github.com/fblpalmeira/pictograma_arvores/blob/main/data/pictogram_v2.R)
+
+- [Dados `.html`](https://en.wikipedia.org/wiki/List_of_tallest_trees)
 
 <img src="https://github.com/fblpalmeira/pictograma_arvores/blob/main/data/pictogram_v2.png">
 
-ℹ️  [Wikipedia](https://en.wikipedia.org/wiki/List_of_tallest_trees).
-
-- [Script `.R`](https://github.com/fblpalmeira/pictograma_arvores/blob/main/data/pictogram_v2.R)
-
-- [Database `.html`](https://en.wikipedia.org/wiki/List_of_tallest_trees)
-
 -----
-
-# Aprenda a fazer um pictograma
-
-Crie gráficos interativos utilizando o pacote 'echarts4r' uma extensão da biblioteca 'Echarts Javascript', que inclui 36 tipos de gráficos, temas, 'Shiny' proxies e animações. O código é dividido em três pequenas partes e é super simples. 
 
 # Instalando e abrindo o pacote `echarts4r`
 
@@ -93,7 +87,3 @@ data %>%
 
 Coene J (2022). _echarts4r: Create Interactive Graphs with 'Echarts JavaScript' Version 5_.
   R package version 0.4.4, <https://CRAN.R-project.org/package=echarts4r>.
-
-  
-
-```
