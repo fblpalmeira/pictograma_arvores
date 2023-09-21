@@ -1,6 +1,6 @@
 # Aprenda a fazer um pictograma
 
-Crie gráficos interativos utilizando o pacote ['echarts4r'](https://echarts4r.john-coene.com/) uma extensão da biblioteca 'Echarts Javascript', que inclui 36 tipos de gráficos, temas, 'Shiny' proxies e animações. O código é dividido em três partes principais e é super simples de ser reproduzido. 
+Crie gráficos interativos utilizando o pacote ['echarts4r'](https://echarts4r.john-coene.com/) uma extensão da biblioteca 'Echarts Javascript', que inclui 36 tipos de gráficos, temas, 'Shiny' proxies e animações. O código é dividido em três partes principais que são super simples de serem reproduzidas. 
 
 - [Código `.R`](https://github.com/fblpalmeira/pictograma_arvores/blob/main/data/pictogram_v2.R)
 
